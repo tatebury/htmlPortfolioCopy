@@ -1,0 +1,85 @@
+body {
+    background-color: #536473;
+}
+
+#container {
+    background-color: rgb(21, 22, 12);
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    background-color: #03447c;
+    color: white;
+    text-align: center;
+    
+}
+
+h3{
+    padding-bottom: 20px;
+}
+
+
+#images {
+    max-width: 1000px;
+    padding: 10px;
+    margin-left: 5px;
+    
+}
+
+#imagecaptions {
+    color: white;
+}
+
+.skiingimage, .pianoimage, .gamingimage {
+    margin: 10px 10px -10px 10px;
+}
+
+#webdev {
+    color:white;
+    text-align: center;
+    margin: 0px 45px 10px 45px;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+#navform {
+    width: auto;
+    padding: 20px;
+    color: white;
+
+}
+
+#nav{
+    width: 350px;
+    float: left;
+    color: white;
+    font-size: 18px;
+
+}
+
+#nav .selected {
+    font-weight: bold;
+}
+
+#form {
+    width: 450px;
+    float: right;
+    color: white;
+    padding: 0px;
+}
+
+.formbuttons {
+    padding: 10px;
+}
+
+#footer {
+    clear: both;
+    padding: 15px;
+    background-color: #003311;
+    color: white;
+    text-align: right;
+}
